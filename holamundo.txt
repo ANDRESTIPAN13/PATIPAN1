@@ -1,1 +1,8 @@
 hola mundo
+1. Una vez que creamos un nuevo repositorio nos envia a un sitio web en donde nos encontramos con tres parametros:
+a)..or create a new repository on the command line
+b)..…or push an existing repository from the command line
+c) …or push an existing repository from the command line
+2. Utilizamos el parametro b) y copiamos la lina de codigo (git remote add origin "sitio web") y lo pegamos en nuestro git bash. En la parte que dice origin lo reemplazamos por la palabra electronica y damos enter.
+3. del parametro b) de igual forma copiamos la linea de codigo (git push -u origin master) y lo pegamos en nuestro git bash. En la parte de origin remplazamos por la palabra electronica y damos enter.
+4. automaticamente el programa de Git bash me informatra que se subieron los archivos al git hub con las respectivas caracteristicas
